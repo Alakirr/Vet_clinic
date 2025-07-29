@@ -1,5 +1,7 @@
 # FastAPI Vet_clinic #
 Автор: Кирьянов Алексей (тг - Alakirr)
+На подхвате: ///
+
 - - - - - - - - - - - - - - - - - - - - 
 URL: https://vet-clinic-y5al.onrender.com/
 - - - - - - - - - - - - - - - - - - - - 
